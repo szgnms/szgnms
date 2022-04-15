@@ -1,23 +1,10 @@
-### Hi there 👋
+ Hi!  Welcome to My Projects 👋
 
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning (QA) Full Stack Automation Engineering
+- 💪 2022 goals: Learn to code. ✨ To bring out quality projects.
 
+- 📫 How to reach me: https://www.linkedin.com/in/muhammed-sezgin-13999b75/
 
-
-
-
-
-
-
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <img src="github-contribution-grid-snake.gif" width="auto">
