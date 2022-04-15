@@ -10,7 +10,7 @@
 <img src="github-contribution-grid-snake.gif" width="auto">
 
 
-![Sezgin's GitHub stats](https://github-readme-stats.vercel.app/api?username=szgnms&show_icons=true&theme=dark)
+![szgnms's GitHub stats](https://github-readme-stats.vercel.app/api?username=szgnms&show_icons=true&theme=dark)
 
 
 
