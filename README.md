@@ -10,6 +10,6 @@
 <img src="github-contribution-grid-snake.gif" width="auto">
 
 
-[Muhammed Sezgin GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[Muhammed Sezgin GitHub stats](https://github-readme-stats.vercel.app/api?username=szgnms)]https://github.com/szgnms/github-readme-stats
 
 
