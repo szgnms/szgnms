@@ -10,5 +10,5 @@
 <img src="github-contribution-grid-snake.gif" width="auto">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammed Sezgin&theme=dark&show_icons=true)
+https://github-readme-stats.vercel.app/api?username=Muhammed Sezgin&theme=dark&show_icons=true
 
