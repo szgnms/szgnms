@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning (QA) Full Stack Automation Engineering
 - 💪 2022 goals: Learn to code. ✨ To bring out quality projects.
 
-- 📫 How to reach me: https://www.linkedin.com/in/muhammed-sezgin-13999b75/
+- 📫 How to reach me: https://www.linkedin.com/in/szgnms/
 
 
 <img src="github-contribution-grid-snake.gif" width="auto">
