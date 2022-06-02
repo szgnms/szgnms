@@ -8,6 +8,8 @@
 
 
 <img src="github-contribution-grid-snake.gif" width="auto">
+<img src="https://skyline.github.com/szgnms/2021" width="auto">
+
 
 
 ![szgnms's GitHub stats](https://github-readme-stats.vercel.app/api?username=szgnms&show_icons=true&theme=dark)
