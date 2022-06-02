@@ -8,7 +8,7 @@
 
 
 <img src="github-contribution-grid-snake.gif" width="auto">
-<img src="szgnms-2021.stl" width="auto">
+<img src="szgnms.txt" width="auto">
 
 
 
