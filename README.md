@@ -1,7 +1,9 @@
  Hi!  Welcome to My Projects 👋
 
 - 🔭 I’m currently working on Java
-- 🌱 I’m currently learning (QA) Full Stack Automation Engineering
+- 🌱 I’m  (QA) Full Stack Automation Engineering
+- 🌱 I’m  Learning (Dev) Full Stack Java Mobil Developer
+- 
 - 💪 2022 goals: Learn to code. ✨ To bring out quality projects.
 
 - 📫 How to reach me: https://www.linkedin.com/in/szgnms/
