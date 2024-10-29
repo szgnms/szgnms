@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m  (QA) Full Stack Automation Engineering
-- 🌱 I’m  Learning (Dev) Full Stack Java Mobil Developer
+- 🌱 I’m  (Dev) Full Stack Java  Developer
 - 
-- 💪 2022 goals: Learn to code. ✨ To bring out quality projects.
+- 💪 2024 goals: Learn to code. ✨ To bring out quality projects.
 
 - 📫 How to reach me: https://www.linkedin.com/in/szgnms/
 
